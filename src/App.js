@@ -4,7 +4,7 @@ import Header from './Header';
 import Checkout from "./Checkout";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import Orders from "./Orders";
+
 
 import Mobile from "./Mobile";
 
